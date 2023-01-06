@@ -1,9 +1,10 @@
 # Numerical-Analysis
 
-There two files in the depository:
+There are three files in the depository:
 
 1. Implementation of Newton's method in Rust (project1 file)
 2. Project 1.ipynb
+3. Implementation of Greatest Descent Method
 
 project1 file contains the instruction to compile the source code.
 
